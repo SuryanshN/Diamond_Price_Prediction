@@ -1,3 +1,6 @@
 pandas
 numpy
--e .
+seaborn
+scikit-learn
+sklearn
+# -e
